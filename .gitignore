@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Secret API keys
+.env
+
+# OS-specific files (Good practice)
+.DS_Store
+Thumbs.db
